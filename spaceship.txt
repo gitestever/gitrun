@@ -3,6 +3,8 @@ Git Launch of Spaceship_###
 Onboard Features:
 
 Mission:
+mars
 
 Mission Control Message:
 "soft launch"
+"for all missions to mars"
