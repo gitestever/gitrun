@@ -1,10 +1,15 @@
-Git Launch of Spaceship_###
+Git Launch of Spaceship_001
 
 Onboard Features:
+rover
 
 Mission:
 mars
 
+Stop:
+Orbit
+
 Mission Control Message:
 "soft launch"
 "for all missions to mars"
+"first mission to mars"
