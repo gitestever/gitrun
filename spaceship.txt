@@ -3,3 +3,6 @@ Git Launch of Spaceship_###
 Onboard Features:
 
 Mission:
+
+Mission Control Message:
+"soft launch"
